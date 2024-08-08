@@ -1,0 +1,10 @@
+{
+  "host": "tcp://your-solace-host:8080",
+  "vpnName": "your-vpn-name",
+  "username": "your-username",
+  "password": "your-password",
+  "queueName": "your-queue-name",
+  "action": "update",
+  "requestedMessage": "json String",
+  "expectedResponse": "json String"
+}
